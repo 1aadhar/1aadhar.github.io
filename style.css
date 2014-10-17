@@ -52,7 +52,7 @@ img {
 /* Set the font family for the whole document, and add a background image */
 body {
 	font-family: 'Droid Sans', arial;
-	background-image: url(30e9ca83-022c-495f-bc13-b43caa215d6b_6.jpg);
+	background-image: url(wood.jpg);
 	background-size: cover;
 	background-postion: center center;
 	background-attachment: fixed;
