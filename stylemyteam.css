@@ -13,11 +13,8 @@ a {
 }
 
 /* Make the name 36px font and italicized */
-h1 {
-	font-size: 50px;
-	font-style: italic;
-	width: 400px;
-	;
+
+th {color: maroon;
 }
 
 /* Make the section headers (e.g. Summary, Experience) 26px font */
@@ -27,6 +24,9 @@ h4 {
 	height: 20px;
 }
 
+div#experience h4 {
+	color: purple;
+}
 
 /* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
 h5 {
@@ -35,16 +35,11 @@ h5 {
 }
 
 /* Put a border around the photo, set it to the right */
-img {
 
-	border: 10px;
-	float: right;
-
-}
 
 /* Set the font family for the whole document, and add a background image */
 body {
-	
+	font-family: 'Droid Sans', arial;
 	background-image: url(wood.jpg);
 	background-size: cover;
 	background-postion: center center;
