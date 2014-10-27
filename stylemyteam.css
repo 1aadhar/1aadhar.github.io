@@ -17,24 +17,6 @@ a {
 th {color: maroon;
 }
 
-/* Make the section headers (e.g. Summary, Experience) 26px font */
-h4 {
-	font-size: 26px;
-	color: green;
-	height: 20px;
-}
-
-div#experience h4 {
-	color: purple;
-}
-
-/* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
-h5 {
-	color: blue;
-	font-size: 20px;
-}
-
-/* Put a border around the photo, set it to the right */
 
 
 /* Set the font family for the whole document, and add a background image */
@@ -51,11 +33,6 @@ body {
 
 p, li {
 	line-height: 26px;
-}
-/* Make the links purple when I put my mouse over it */
-
-a:hover {
-	color: purple;
 }
 
 /* Make the content of the page "sit on top of" the background */
